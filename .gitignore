@@ -1,0 +1,30 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+data/*.db
+*.db
+
+# PyCharm
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Reports
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
